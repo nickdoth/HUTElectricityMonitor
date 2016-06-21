@@ -1,0 +1,15 @@
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\bin\Debug\HUTElectricityMonitor.dll
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\bin\Debug\HUTElectricityMonitor.pdb
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.SettingForm.resources
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.csproj.GenerateResource.Cache
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.dll
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.pdb
+F:\Users\nickdoth\Documents\SharpDevelop Projects\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\ResolveAssemblyReference.cache
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\bin\Debug\HUTElectricityMonitor.dll
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\bin\Debug\HUTElectricityMonitor.pdb
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.csprojResolveAssemblyReference.cache
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.SettingForm.resources
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.csproj.GenerateResource.Cache
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.dll
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\obj\Debug\HUTElectricityMonitor.pdb
+D:\tmp\HUTElectricityMonitor\HUTElectricityMonitor\bin\Debug\NUnit.Framework.dll
